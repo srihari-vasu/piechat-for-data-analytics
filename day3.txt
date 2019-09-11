@@ -1,0 +1,10 @@
+keyword 1
+keyword 2
+keyword 3
+keyword 4
+keyword 5
+keyword 6
+average position 6.8
+click through rate 24.5
+clicks 600
+costs 2001.2
